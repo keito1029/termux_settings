@@ -1,0 +1,9 @@
+SHELL=/bin/sh
+PATH=/data/data/com.termux/files/usr/bin
+XDG_RUNTIME_DIR=/run/user/1000
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+DISPLAY=:0
+
+00 6-18 * * 0-6 sh /data/data/com.termux/files/home/.termux/tasker/mpv.sh
+57 4 * * 0-6 sh /data/data/com.termux/files/home/.termux/tasker/mpv.sh
+56 4 * * 0-6 mkdir /data/data/com.termux/files/home/crontab-testing
