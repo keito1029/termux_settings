@@ -6,4 +6,5 @@
 ```
 /data/data/com.termux/files/home/.termux/termux.properties
 /data/data/com.termux/files/usr/share/examples/termux/termux.properties
+touch ~/.profile ~/.bash_logout
 ```
