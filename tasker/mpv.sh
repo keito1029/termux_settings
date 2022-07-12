@@ -1,3 +1,3 @@
 #!/bin/sh
 
-nohup mpv --no-video 'https://soundcloud.com/k-y-692291413/likes' &
+pkill mpv ; nohup mpv --no-video --shuffle=yes 'https://soundcloud.com/k-y-692291413/likes' &
