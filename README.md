@@ -16,3 +16,6 @@ touch ~/.profile ~/.bash_logout
 ## macrodroidとの権限やそれぞれのヘルパーアプリを確認
 
 [参考文献](https://gist.github.com/txoof/f7670b80e983582f7af6d1a7791c15ab)
+
+# taskerはFdroidはF-droidより [無料](https://f-droid.org/en/packages/com.termux.tasker/)でインストールできるので注意
+
