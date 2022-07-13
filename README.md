@@ -14,3 +14,5 @@ touch ~/.profile ~/.bash_logout
 ```
 
 ## macrodroidとの権限確認
+
+[参考文献](https://gist.github.com/txoof/f7670b80e983582f7af6d1a7791c15ab)
