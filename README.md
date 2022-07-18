@@ -23,13 +23,13 @@ touch .config/mpv/mpv.conf
 echo 'script-opts=ytdl_hook-ytdl_path=/data/data/com.termux/files/home/downloads/yt-dlp' > .config/mpv/mpv.conf
 ```
 
-> curlでダウンロードしパスの設定を変える
+> curlでダウンロードしパスの設定を変える\
 例
-
-```
-sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
-sudo chmod a+rx /usr/local/bin/youtube-dl
-```
+>
+>```
+> sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+> sudo chmod a+rx /usr/local/bin/youtube-dl
+>```
 
 ```
 git clone https://github.com/keito1029/termux_settings
