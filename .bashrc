@@ -1,2 +1,4 @@
 alias pkill='pgrep -f'
-HISTIGNORE= 'mp*:kill*:pkill*:ps*:pgrep*:'
+alias killall='pgrep -f'
+HISTIGNORE= '*:'
+watch cat launch_check.log
