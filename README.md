@@ -60,3 +60,8 @@ touch ~/.profile ~/.bash_logout
 
 # taskerはFdroidはF-droidより [無料](https://f-droid.org/en/packages/com.termux.tasker/)でインストールできるので注意
 
+## Run commands in Termux environment の権限
+
+macrodroidのtaskerを開いた状態じゃないと権限が追加されず許可できないので注意
+
+<img width='80%' src='./media/macrodroid1.png' />
