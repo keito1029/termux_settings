@@ -65,3 +65,5 @@ touch ~/.profile ~/.bash_logout
 macrodroidのtaskerを開いた状態じゃないと権限が追加されず許可できないので注意
 
 <img width='80%' src='./media/macrodroid1.png' />
+<img width='80%' src='./media/macrodroid2.png' />
+<img width='80%' src='./media/macrodroid3.png' />
