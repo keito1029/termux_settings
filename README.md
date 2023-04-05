@@ -15,7 +15,7 @@
 * youtube-dl(2021.12.ver)は使用不可だった為，yt-dlpに移行したのでインストールしない
 * 基本公式のリポジトリから直接インストールした
   * [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp)
-  ln -svf /data/data/com.termux/files/home/downloads/yt-dlp /data/data/com.termux/files/usr/bin/yt-dl
+  * 
 
 * [ ] curlでダウンロードしパスの設定を変える
 * [ ] スマホ側でのmacrodroid等の権限管理に関するスクショの追加
