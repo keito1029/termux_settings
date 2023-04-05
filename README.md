@@ -15,7 +15,8 @@
 * youtube-dl(2021.12.ver)は使用不可だった為，yt-dlpに移行したのでインストールしない
 * 基本公式のリポジトリから直接インストールした
   * [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp)
-  * 2023.03.04 がmpvと上手く連携できていないのでyt-dlp 2023.02.17で代替する[リンク](https://github.com/yt-dlp/yt-dlp/releases/download/2023.02.17/yt-dlp)とリリースサイトの [](https://www.url.com)
+  * 2023.03.04 がmpvと上手く連携できていないので面倒なのでyt-dlp 2023.02.17で代替  
+  [ダウンロードリンク](https://github.com/yt-dlp/yt-dlp/releases/download/2023.02.17/yt-dlp)と[リリースページ](https://github.com/yt-dlp/yt-dlp/releases/)
   * ダウンロードするファイルは無印(yt-dlp)でOKでダウンロード後は実行権限も付与しておく
 
 * [ ] curlでダウンロードしパスの設定を変える
