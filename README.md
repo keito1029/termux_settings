@@ -75,7 +75,8 @@ macrodroidのtaskerを開いた状態じゃないと権限が追加されず許�
 
 ## URLの動画を見れる様にする
 
-
+[Run MPV Video Player from termux : r/termux](https://www.reddit.com/r/termux/comments/gjbjs2/run_mpv_video_player_from_termux/)
+    > [このバージョン](https://github.com/mpv-android/mpv-android/pull/58)のmpvをインストール
 
 ## note
 
