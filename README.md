@@ -73,6 +73,10 @@ macrodroidのtaskerを開いた状態じゃないと権限が追加されず許�
 <img width='80%' src='./media/macrodroid2.png' />
 <img width='80%' src='./media/macrodroid3.png' />
 
+## URLの動画を見れる様にする
+
+
+
 ## note
 
 * termuxのモバイルネットワーク制限は [できない](https://github.com/termux/termux-app/issues/1556)
