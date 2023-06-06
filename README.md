@@ -81,4 +81,4 @@ macrodroidのtaskerを開いた状態じゃないと権限が追加されず許�
 ## note
 
 * termuxのモバイルネットワーク制限は [できない](https://github.com/termux/termux-app/issues/1556)
-* ポート番号は8022 
+* 初期ポート番号は8022 sshdを入力して起動
